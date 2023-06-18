@@ -17,7 +17,7 @@
 <a href="https://fb.com/sourov216" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sourov216" height="30" width="40" /></a>
 </p>
 <h3 align="left"> About Me:</h3>
-<p align="left">I’m a Front End Web developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. Over the past years, I created 10s of websites for my clients. I pride myself on doing quality work and maintain excellent communication. I enjoy working with include ReactJS, JavaScript as well as Node.js.</p>
+<p align="left">Dynamic and ambitious Full-stack Web Developer with expertise in Node.js, React, Tailwind CSS, JavaScript, Next.js, and MongoDB. Skilled in building robust and scalable server-side applications and APIs using Node.js, ensuring efficient handling of requests and seamless integration with front-end technologies. Proficient in React, Tailwind CSS, and Next.js to create visually stunning and interactive user interfaces for exceptional user experiences. Experienced in MongoDB for efficient data storage and retrieval, facilitating smooth data flow between the front-end and back-end. Passionate about revolutionizing the digital landscape through innovative Full-stack web solutions.</p>
 
 <h3 align="left">Languages and Tools:</h3>
 
